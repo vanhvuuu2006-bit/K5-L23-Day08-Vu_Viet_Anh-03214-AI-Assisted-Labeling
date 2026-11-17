@@ -1,4 +1,4 @@
-<p align="center">
+# Day 08 Lab — 2A202603214 - Vũ Việt Anh
   <img src="docs/assets/hero.png" alt="Day 08 Lab: AI hỗ trợ gán nhãn" width="100%">
 </p>
 
